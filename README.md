@@ -5,6 +5,10 @@
   Solid-State Drive (SSD) Guide
 </h1>
 
+#### A guide covering  including the applications, libraries and tools that will make you a better and more efficient with your powered device.
+
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/139736361-753bbc0b-76a8-471b-b721-f53793b9f029.png">
 <br />
@@ -16,9 +20,6 @@
  Solid-State Drive (SSD) Architecture.
 </p>
 
-#### A guide covering  including the applications, libraries and tools that will make you a better and more efficient with your powered device.
-
-**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 # Table of Contents
 
