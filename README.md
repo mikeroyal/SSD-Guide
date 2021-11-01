@@ -31,9 +31,9 @@
 
 2. [File systems & Storage](https://github.com/mikeroyal/SSD-Guide#file-systems--storage)
 
-3. [Virtualization](https://github.com/mikeroyal/SSD-Guide#virtualization)
+3. [Virtualization Tools](https://github.com/mikeroyal/SSD-Guide#virtualization-tools)
 
-4. [Emulation](https://github.com/mikeroyal/SSD-Guide#emulation)
+4. [Emulation Tools](https://github.com/mikeroyal/SSD-Guide#emulation-tools)
 
 5. [Fireware Development](https://github.com/mikeroyal/SSD-Guide#firmware-development)
 
@@ -81,6 +81,7 @@
 [SATA vs SSD vs NVMe: Types of Hard Drives | Pluralsight](https://www.pluralsight.com/blog/it-ops/types-of-hard-drives-sata-ssd-nvme)
 
 ## System Memory
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents)
 
 [NAND Flash](https://en.wikipedia.org/wiki/NAND_Flash) is a type flash memory where cells are connected in series, resembling a [CMOS](https://en.wikipedia.org/wiki/CMOS) NAND gate. Flash memory is used in computers, PDAs, digital audio players, digital cameras, mobile phones, synthesizers, video games, scientific instrumentation, industrial robotics, and medical electronics.
 
@@ -121,6 +122,7 @@ Soft errors occur when data is written or read differently than originally inten
 [Bcache](https://en.wikipedia.org/wiki/Bcache) is a cache in the Linux kernel's block layer, which is used for accessing secondary storage devices. It allows one or more fast storage devices, such as flash-based solid-state drives (SSDs), to act as a cache for one or more slower storage devices, such as hard disk drives (HDDs). This effectively creating hybrid volumes and provides performance improvements.
 
 ## SSD Interfaces
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents)
 
 [Serial ATA (SATA)](https://en.wikipedia.org/wiki/SATA) is a computer bus interface that connects host bus adapters to mass storage devices such as hard disk drives, optical drives, and solid-state drives.
 
@@ -131,6 +133,7 @@ Soft errors occur when data is written or read differently than originally inten
 [PCI Express (PCIe)](https://en.wikipedia.org/wiki/PCI_Express) is a high-speed serial computer expansion bus standard, designed to replace the older PCI, PCI-X and AGP bus standards.
 
 ## PCIe Protocols
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents)
 
 [Transaction Layer Packets (TLPs)](https://www.oreilly.com/library/view/pci-express-system/0321156307/0321156307_ch04lev1sec5.html) is the starting point in the assembly of outbound Transaction Layer Packets (TLPs), and the end point for disassembly of inbound TLPs at the receiver. Along the way, the Data Link Layer and Physical Layer of each device contribute to the packet assembly and disassembly.
 
@@ -141,6 +144,7 @@ Soft errors occur when data is written or read differently than originally inten
 [Enumeration](https://resources.infosecinstitute.com/topic/what-is-enumeration/) is defined as a process which establishes an active connection to the target hosts to discover potential attack vectors in the system, and the same can be used for further exploitation of the system.
 
 ## Fabrics
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents)
 
 [NVMe over Fabrics (NVMeOF)](https://www.samsung.com/us/labs/pdfs/nvmf-disaggregation-preprint.pdf) is a recent protocol standard for accessing NVMe devices over RDMA-capable networks. By leveraging RDMA, NVMf offloads data movement to the network card (NIC), thus reducing the processing overheads involved in handling remote I/O requests on both the host and the target.
 
@@ -185,7 +189,7 @@ Soft errors occur when data is written or read differently than originally inten
 
 [exFAT(Extended File Allocation Table )](https://docs.microsoft.com/en-us/windows/win32/fileio/exfat-specification) is the file system that was the successor to FAT32 in the FAT family of file systems. It was optimized for flash memory such as USB flash drives and SD cards.
 
-# Virtualization
+# Virtualization Tools
 [Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents)
 
 [HVM (Hardware Virtual Machine)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html) is a virtualization type that provides the ability to run an operating system directly on top of a virtual machine without any modification, as if it were run on the bare-metal hardware.
