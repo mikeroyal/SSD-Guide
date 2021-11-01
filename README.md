@@ -35,7 +35,7 @@
 
 4. [Emulation Tools](https://github.com/mikeroyal/SSD-Guide#emulation-tools)
 
-5. [Fireware Development](https://github.com/mikeroyal/SSD-Guide#firmware-development)
+5. [Firmware Development](https://github.com/mikeroyal/SSD-Guide#firmware-development)
 
 6. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/SSD-Guide#VerilogSystemVerilog-development)
 
@@ -295,7 +295,7 @@ Soft errors occur when data is written or read differently than originally inten
 
 [Universal Verification Methodology (UVM)](https://verificationguide.com/uvm/) is a consists of class libraries needed for the development of well constructed, reusable SystemVerilog based Verification environment. In simple words, UVM consists of a set of base classes with methods defined in it, the SystemVerilog verification environment can be developed by extending these base classes. It will refer the UVM base classes as UVM Classes. [Accelerated UVM Testbenches](https://verificationacademy.com/courses/systemverilog-testbench-acceleration).
 
-# Fireware Development
+# Firmware Development
 [Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents)
 
 <p align="center">
